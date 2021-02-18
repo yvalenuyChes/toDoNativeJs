@@ -1,0 +1,18 @@
+.todoDone {
+	text-decoration: line-through;
+	font-style: italic;
+	color: gray;
+}
+
+.btn {
+
+	margin-right:  10px;
+}
+
+.panel{
+	margin-top: 10px;
+}
+
+.active{
+	
+}
